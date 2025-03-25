@@ -1,14 +1,21 @@
-# MyProfile
-
-Hello, This is Praveen a 2nd year btech cse(Ai) student from Benntt University (Times Group), Greater Noida
+# Praveen Lokku
 
 
-Tech Stack
-Languages: Python C++ JavaScript Rust SQL
-Technologies: OpenCv Pytorch Django Flask 
+👨‍🎓 2nd Year B.Tech CSE (AI) Student
 
+🏛️ Bennett University (Times Group), Greater Noida
 
-connect 
+💻 Tech Stack
 
-Linkedin: www.linkedin.com/in/praveenlokku
-github: https://github.com/praveenlokku
+🔹 Languages: Python  C++  JavaScript  Rust  SQL
+
+🔹 Technologies: OpenCV  PyTorch  Django  Flask
+
+🌐 Connect with Me
+
+🔗 LinkedIn: linkedin.com/in/praveenlokku
+
+🐙 GitHub: github.com/praveenlokku
+
+📩 Email: pravipraveenlokku@gmail.com
+
